@@ -1,0 +1,19 @@
+﻿Model,Composition,pvsat acc. (%),pvsat pre. (%),xH2O acc. (mol.%),xH2O pre. (mol.%),Symbol,Colour
+Dixon,all,27,38,1,15,circle,black
+Dixon,BBA,8,29,7,10,circle,#0173b2
+Dixon,AR,39,39,-5,17,circle,#ece133
+ShishkinaIdealMixing,all,37,49,-16,17,square,black
+ShishkinaIdealMixing,BBA,3,27,-12,11,square,#0173b2
+ShishkinaIdealMixing,AR,33,41,-15,18,square,#ece133
+ShishkinaIdealMixing,I,103,59,-15,11,square,#029e73
+IaconoMarziano,all,-4,44,3,18,triangle-up,black
+IaconoMarziano,BBA,-12,17,1,9,triangle-up,#0173b2
+IaconoMarziano,AR,-5,51,4,21,triangle-up,#ece133
+IaconoMarziano,I,66,51,4,7,triangle-up,#029e73
+Liu,R,51,152,0,0,x,#cc78bc
+Liu,all,51,152,0,0,x,black
+MagmaSat,all,-2,55,2,15,star,black
+MagmaSat,BBA,-15,31,7,6,star,#0173b2
+MagmaSat,AR,-9,22,0,17,star,#ece133
+MagmaSat,I,6,22,2,2,star,#029e73
+MagmaSat,R,30,119,0,0,star,#cc78bc
